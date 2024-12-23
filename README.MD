@@ -44,3 +44,9 @@ ng new my-app
 cd my-app
 ng serve --open
 ```
+
+if you get Error: Could not find the '@angular-devkit/build-angular:dev-server' builder's node package.
+
+```bash
+npm install
+```
