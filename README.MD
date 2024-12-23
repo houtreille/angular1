@@ -50,3 +50,9 @@ if you get Error: Could not find the '@angular-devkit/build-angular:dev-server' 
 ```bash
 npm install
 ```
+
+# Create a new component
+```bash
+ng generate component hero-detail
+```
+
